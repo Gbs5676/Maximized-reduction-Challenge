@@ -37,9 +37,8 @@ Copy the Code: Save the code in a file named MaximizedReduction.java.
 - For the second test case, removing the first digit `4` gives `567`, which is the maximum.
 - For the third test case, removing the first `1` gives `001` (which is `1`), and removing the second `0` gives `101`, which is the maximum.
 
-## Code Implementation
+## Code Implementation for dcoder 
 
-Here is a Java implementation of the solution:
 
 ```java
 import java.util.Scanner;
