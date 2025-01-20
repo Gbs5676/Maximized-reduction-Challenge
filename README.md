@@ -69,3 +69,11 @@ public class MaximizedReduction {
         scanner.close();
     }
 }
+```
+---
+
+# more information at 📂
+[dcoder](https://dcoder.tech/)
+
+
+[Java web docs](https://docs.oracle.com/en/java/)
